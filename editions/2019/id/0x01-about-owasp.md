@@ -1,6 +1,6 @@
 # Tentang OWASP 
 
-Open Web Application Security Project (OWASP) adalah komunitas terbuka yang didedikasikan
+Open Worldwide Application Security Project (OWASP) adalah komunitas terbuka yang didedikasikan
 untuk memungkinkan organisasi mengembangkan, membeli, dan memelihara aplikasi dan
 API yang dapat dipercaya.
 

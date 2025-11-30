@@ -1,6 +1,6 @@
 # Sobre o OWASP
 
-OWASP é o acrônimo em inglês para "Open Web Application Security Project", é uma comunidade aberta, dedicada a habilitar as organizações a desenvolver, comprar e manter aplicações e APIs que podem ser confiáveis.
+OWASP é o acrônimo em inglês para "Open Worldwide Application Security Project", é uma comunidade aberta, dedicada a habilitar as organizações a desenvolver, comprar e manter aplicações e APIs que podem ser confiáveis.
 
 No OWASP, você irá encontrar de forma gratuita e aberta:
 
