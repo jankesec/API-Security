@@ -89,6 +89,12 @@ checks, a user may be able to delete another user's document.
 * Write tests to evaluate the vulnerability of the authorization mechanism. Do
   not deploy changes that make the tests fail.
 
+ **Note**
+
+* Using GUIDs/UUIDs instead of predictable identifiers helps mitigate object enumeration attacks. However, once a valid identifier is disclosed—whether through another endpoint, excessive data exposure, logging, or another vulnerability—it should be treated as public information.
+
+* Authorization decisions must never rely on the secrecy or unpredictability of object identifiers. Every request must independently verify that the authenticated user is authorized to access the requested object.
+
 ## References
 
 ### OWASP
