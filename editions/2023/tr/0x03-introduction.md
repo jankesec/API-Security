@@ -1,14 +1,14 @@
 # Giriş
 
-## OWASP API Security Top 10 - 2023'e Hoş Geldiniz!
+## OWASP API Security Top 10 – 2023'e Hoş Geldiniz!
 
 OWASP API Security Top 10'un ikinci sürümüne hoş geldiniz!
 
-Farkındalık oluşturmayı amaçlayan bu belge ilk kez 2019 yılında yayınlandı. O zamandan bu yana API Security sektörü önemli ölçüde gelişti ve olgunlaştı. Bu çalışmanın kısa sürede sektörde başvurulan temel kaynaklardan biri haline gelmesinin, söz konusu gelişmeye olumlu katkı sağladığına inanıyoruz.
+Farkındalık oluşturmayı amaçlayan bu belge ilk kez 2019 yılında yayınlandı. O zamandan bu yana API güvenliği sektörü önemli ölçüde gelişti ve olgunlaştı. Bu çalışmanın kısa sürede sektörde başvurulan temel kaynaklardan biri hâline gelmesinin, söz konusu gelişmeye olumlu katkı sağladığına inanıyoruz.
 
 API'ler modern uygulama mimarilerinde son derece önemli bir role sahiptir. Ama inovasyonun hızı, güvenlik farkındalığının hızından farklıdır. Bu yüzden de yaygın API güvenlik zayıflıkları konusunda farkındalık oluşturmaya odaklanmanın önemli olduğuna inanıyoruz.
 
-OWASP API Security Top 10'un temel amacı; API geliştirme ve yönetiminde görev alan, geliştiriciler, tasarımcılar, mimarlar, yöneticiler ve kurumları bilgilendirmek ve eğitmektir. API Security Project hakkında daha fazla bilgiye [proje sayfasından][1] ulaşabilirsiniz.
+OWASP API Security Top 10'un temel amacı; API geliştirme ve yönetiminde görev alan geliştiricileri, tasarımcıları, mimarları, yöneticileri ve kuruluşları bilgilendirmek ve eğitmektir. OWASP API Security Project hakkında daha fazla bilgiye [proje sayfasından][1] ulaşabilirsiniz.
 
 OWASP Top 10 serisine aşina değilseniz, en azından aşağıdaki 10 projeye göz atmanızı öneririz:
 
@@ -26,7 +26,7 @@ OWASP Top 10 serisine aşina değilseniz, en azından aşağıdaki 10 projeye g�
 
 Bu projelerin hiçbiri bir diğerinin yerine geçmez. Örneğin backend API kullanan bir mobil uygulama geliştiriyorsanız, hem mobil uygulamalara hem de API'lere yönelik Top 10 dokümanlarını okumanız daha yararlı olacaktır. Aynı durum API ile desteklenen web ve masaüstü uygulamaları için de geçerlidir.
 
-Bu sürümün nasıl hazırlandığıyla ilgili daha çok bilgiyi [Metodoloji ve Veriler][13] bölümünde bulabilirsiniz. Bu süreçte herkesi soru, yorum ve fikirleriyle [GitHub reposu][14] veya [E-posta listesi][15] üzerinden katkı yapmaya davet ediyoruz.
+Bu sürümün nasıl hazırlandığıyla ilgili daha fazla bilgiyi [Metodoloji ve Veriler][13] bölümünde bulabilirsiniz. Bu süreçte herkesi soru, yorum ve fikirleriyle [GitHub repository'si][14] veya [e-posta listesi][15] üzerinden katkı yapmaya davet ediyoruz.
 
 [1]: https://owasp.org/www-project-api-security/
 [2]: https://owasp.org/www-project-cloud-native-application-security-top-10/

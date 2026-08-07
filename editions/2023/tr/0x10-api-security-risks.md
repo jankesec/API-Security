@@ -1,14 +1,14 @@
-# API Güvenlik Riskleri
+# API Güvenliği Riskleri
 
 Risk analizi yapılırken [OWASP Risk Değerlendirme Metodolojisi][1] kullanılmıştır.
 
 Aşağıdaki tabloda risk skoruyla ilişkili terminoloji özetlenmiştir.
 
-| Tehdit Aktörleri | İstismar Edilebilirlik | Zayıflığın Yaygınlığı | Zayıflığın Tespit Edilebilirliği | Teknik Etki |  İş Etkileri   |
+| Tehdit Aktörleri | İstismar Edilebilirlik | Zayıflığın Yaygınlığı | Zayıflığın Tespit Edilebilirliği | Teknik Etki |    İş Etkisi    |
 | :--------------: | :--------------: | :-------------------: | :------------------------------: | :---------: | :------------: |
-|   API'ye Özel    |   Kolay: **3**   |   Çok Yaygın **3**    |           Kolay **3**            | Ciddi **3** | İşletmeye Özel |
-|   API'ye Özel    |   Orta: **2**    |     Yaygın **2**      |            Orta **2**            | Orta **2**  | İşletmeye Özel |
-|   API'ye Özel    |    Zor: **1**    |      Nadir **1**      |            Zor **1**             | Düşük **1** | İşletmeye Özel |
+|   API'ye Özgü    |   Kolay: **3**   |   Çok yaygın **3**    |           Kolay **3**            | Ciddi **3** | Kuruluşa özgü  |
+|   API'ye Özgü    |   Orta: **2**    |     Yaygın **2**      |            Orta **2**            | Orta **2**  | Kuruluşa özgü  |
+|   API'ye Özgü    |    Zor: **1**    |      Nadir **1**      |            Zor **1**             | Düşük **1** | Kuruluşa özgü  |
 
 **Not**: Bu yaklaşım, tehdit aktörünün saldırıyı gerçekleştirme olasılığını dikkate almaz. Ayrıca uygulamanıza özgü teknik ayrıntıları da hesaba katmaz. Bu unsurlardan herhangi biri, bir saldırganın belirli bir zafiyeti bulma ve istismar etme olasılığını önemli ölçüde etkileyebilir.
 Bu derecelendirme, kuruluşunuzun maruz kalacağı gerçek iş etkisini de değerlendirmez. Kuruluşunuz; kurum kültürü, faaliyet gösterdiği sektör ve tabi olduğu düzenleyici ortamı göz önünde bulundurarak uygulamalardan ve API'lerden kaynaklanan güvenlik risklerinin ne kadarını kabul edebileceğine kendisi karar vermelidir.

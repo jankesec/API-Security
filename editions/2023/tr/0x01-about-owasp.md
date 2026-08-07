@@ -7,7 +7,7 @@ OWASP bünyesinde aşağıdaki kaynaklara ücretsiz ve açık bir şekilde eriş
 - Uygulama güvenliği araçları ve standartları.
 - Uygulama güvenliği testleri, güvenli kod geliştirme ve güvenli kod inceleme konularını kapsamlı biçimde ele alan kitaplar.
 - Sunumlar ve [videolar][1].
-- Birçok yaygın konu hakkında [cheat sheet][2]'ler.
+- Birçok yaygın konu hakkında [hızlı başvuru rehberleri][2].
 - Standart güvenlik kontrolleri ve kütüphaneleri.
 - Dünya genelindeki [yerel OWASP toplulukları][3].
 - Öncü araştırmalar.
