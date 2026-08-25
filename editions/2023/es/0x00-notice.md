@@ -4,7 +4,7 @@ Esta es la versión en texto de OWASP API Security Top 10, utilizada como fuente
 
 Las contribuciones al proyecto, como comentarios, correcciones o traducciones, deben realizarse aquí. Para más detalles sobre [Cómo Contribuir][1], consulta [CONTRIBUTING.md][1].
 
-* Erez Yallon
+* Erez Yalon
 * Inon Shkedy
 * Paulo Silva
 
