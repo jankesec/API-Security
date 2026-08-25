@@ -97,8 +97,16 @@ sells the information for malicious purposes.
 
 ## References
 
+### OWASP
+
+* [REST Security Cheat Sheet][2]
+
 ### External
 
 * [CWE-1059: Incomplete Documentation][1]
+* "Inventory Management" - [Security Strategies for Microservices-based
+  Application Systems][3], NIST
 
 [1]: https://cwe.mitre.org/data/definitions/1059.html
+[2]: https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html
+[3]: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204.pdf
