@@ -102,7 +102,7 @@ Cuando uno de los archivos se actualiza, su tamaño aumenta a 18 GB. Todos los c
 * Ajusta el rate limiting según las necesidades del negocio. Algunos endpoints pueden requerir políticas más estrictas.
 * Limita/restringe cuántas veces o con qué frecuencia un cliente/usuario puede ejecutar una misma operación (p. ej., validar un OTP o solicitar recuperación de contraseña sin visitar la URL de un solo uso).
 * Agrega validación del lado del servidor para parámetros de query string y cuerpo de la solicitud, en particular los que controlan el número de registros devueltos en la respuesta.
-* Configura límites de gasto para todos los proveedores/integaciones de servicio. Cuando no sea posible establecer límites de gasto, configura alertas de facturación.
+* Configura límites de gasto para todos los proveedores/integraciones de servicio. Cuando no sea posible establecer límites de gasto, configura alertas de facturación.
 
 ## Referencias
 

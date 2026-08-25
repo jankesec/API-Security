@@ -1,4 +1,4 @@
-# ¿Qué Sigue Para DevSecOps
+# ¿Qué Sigue Para DevSecOps?
 
 Debido a su importancia en las arquitecturas modernas de aplicaciones, construir APIs seguras es crucial. La seguridad no puede descuidarse y debe ser parte de todo el ciclo de vida del desarrollo. Realizar escaneos y pruebas de penetración anuales ya no es suficiente.  
 
